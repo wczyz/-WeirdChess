@@ -1,1 +1,1 @@
-# -WeirdChess
+# WeirdChess
